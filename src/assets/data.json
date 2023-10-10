@@ -1,0 +1,1341 @@
+{
+  "coffee": {
+    "banner": "https://store.coffeebean.com/cdn/shop/collections/Coffee-Bean-Shop-Header-Powder.jpg?v=1647309016",
+    "about": "At The Coffee Bean & Tea Leaf®, the art of crafting the best tasting coffee requires respecting each individual roast. Knowing the specific origin and roast degree for each coffee allows for intense flavor that can be traced back to its earliest beginnings. Many coffee companies claim to search the world for the finest coffees, yet very few do. Our Coffee Master, Jay Isais, goes to the source of our coffee to guarantee it is the highest quality obtainable on earth. The partners who prepare our coffee at every level are extremely passionate people committed to providing ‘Simply the Best' coffee to our customers. Quality has always been our No. 1 priority, and it will never be compromised.",
+    "filters": [
+      { "region": ["africa", "asia", "north america", "south america"] },
+      { "roast": ["dark", "light", "medium"] },
+      { "size": ["12 OZ", "16 OZ", "32 OZ"] },
+      {
+        "type": [
+          "decaffeintated",
+          "organic",
+          "regular",
+          "easy-latte",
+          "flavored",
+          "ground",
+          "reserved",
+          "single origin",
+          "whole bean"
+        ]
+      }
+    ],
+    "instructions": [
+      { "8_oz": "Makes approximately 25 cups of coffee" },
+      { "12_oz": "Makes approximately 35-40 cups of coffee" },
+      { "16_oz": "Makes approximately 50 cups of coffee" },
+      { "20_oz": "Makes approximately 60-65 cups of coffee" },
+      { "32_oz": "Makes approximately 90-100 cups of coffee" },
+      { "brewing_tip": "Use cold, filtered water and a clean machine" },
+      { "grind": "only as much as you need for one cup or one pot of coffee" },
+      { "choose": "the correct grind. Fine for espresso, medium for automatic drip, coarse for French Press."},
+      { "measure": "ground coffee to taste. Start with two level tablespoons of ground coffee per six ounces of cold filtered or bottled water."},
+      { "store": "in an airtight container to protect the flavor and aroma and ensure rich, fresh tasting coffee. Do not freeze or refrigerate."}
+    ],
+    "products": [
+      {
+        "id": 0,
+        "title": "House Blend Light Roast Coffee",
+        "price": 14.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/House-Blend-Light-Roast-Coffee-Coffee-Bean-_-Tea-Leaf-Store-1619088875_300x.jpg?v=1619621603",
+          "https://store.coffeebean.com/cdn/shop/products/House-Blend-Light-Roast-Coffee-Coffee-Bean-_-Tea-Leaf-Store-1619088878_300x.jpg?v=1619621593"
+        ],
+        "short_description": "House Blend is available in both whole beans and ground coffee options. House Blend coffee from The Coffee Bean & Tea Leaf is one of our most popular coffees. To create our light roast House Blend we combine natural and washed Central and South American coffees. We choose our blends for brightness, flavor, and aromas that make for a smooth, satisfying cup of coffee that can be enjoyed all day long. House Blend is available in both whole beans and ground coffee options.",
+        "full_description": {
+          "profile": "Light-bodied with a subtle fruity aroma and buttery finish",
+          "place": "Costa Rica, Colombia and Brazil",
+          "blend": "This blend is over one hundred years old!",
+          "process": "Costa Rican coffee is wash processed, while both Colombian and Brazilian are dry processed",
+          "pairing": "Fresh peaches, nectarines or plums, currant or raisin scone"
+        },
+        "region": "south america",
+        "roast": "dark",
+        "size": [12, 16, 32],
+        "type": ["flavored", "organic", "regular"],
+        "reviews": 46
+      },
+      {
+        "id": 1,
+        "title": "Espresso Roast Blend Whole Beans 1lb bag",
+        "price": 18.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/Espresso-Roast-Blend-Coffee-Coffee-Bean-_-Tea-Leaf-Store-1619088884_300x.jpg?v=1619621563"
+        ],
+        "short_description": "The Coffee Bean & Tea Leaf built its business on this signature blend, one of our most popular products. Our signature Espresso Roast Blend (whole beans and ground options) is made with distinct roasts from 5 different countries. Costa Rica is the foundation and sweetness. Sumatra adds body and a hint of earth. Papua New Guinea contributes more depth. Guatemala adds spice and balance. Brazil adds dried fruit and nut overtones. Each come together to create the perfect blend of silky smooth flavors in your coffee or Latte. Our Espresso Roast Blend is expressive and subtle enough to be enjoyed as a straight shot, yet assertive enough for the perfect latte at home.",
+        "full_description": {
+          "profile": "Velvety body with caramel like aroma, earthy flavor and a bittersweet finish. This blend captures a full range of origin characteristics from crisp and bright to syrupy, earthy and full bodied. The range of roast degrees lends more complexity and versatility. ",
+          "place": "Costa Rica, Guatemala, Papua New Guinea, Sumatra, Brazil",
+          "blend": "This coffee is a blend of five different coffees: Sumatra, Papua New Guinea, Brazil, Guatemala, and Costa Rica (Smart People Buy Great Coffee). The Brazil uses the Natural process; the coffee cherries are sorted by hand. The ripe cherries are sent to one pile while the rest are sorted according to ripeness. The fully intact cherries are then laid on large concrete patios or raised beds and left to ferment and dry for two to four weeks. The dried cherries turn dark purple in color and less round. They are then sent to special hulling machines that rip the dried fruit from the coffee beans. The Sumatra uses the Semi-Washed process; the coffee cherries are sorted by hand. The fully intact cherries are put in water to sort out any defect. They then go through a de-pulper that will remove the outer skin and pulp as well as some or most of the mucilage from the green coffee itself. The cherries are then laid on large concrete patios or raised beds and left to ferment and dry for two to four weeks. The dried cherries turn dark purple in color and become less round. They are then sent to special hulling machines that rip the dried fruit from the coffee beans. The Papua New Guinea, Costa Rica and Colombia use the Washed process; the coffee cherries are sorted by hand. The fully intact cherries are put in water to sort out any defect. They then go through a de-pulper that will remove the outer skin and pulp. A layer of mucilage is left around the seeds. To remove the mucilage the seed will need to ferment in water tanks for eight to fifty hours. The beans that have floated to the top they will begin the drying process where the cherries are then laid on large concrete patios or raised beds and left to ferment and dry for two to four weeks. The dried cherries turn dark purple in color and less round. They are then sent to special hulling machines that rip the dried fruit from the coffee beans. Once the green coffee beans are packaged and shipped to our roasting facility at The Coffee Bean & Tea Leaf, they are then blended together to create our Espresso Roast.",
+          "process": "Each origin coffee is carefully roasted individually to its optimum level and then combined in the right proportion to create the final blend. There are a total of five coffees, one roasted at two levels, resulting in five individual blend components.",
+          "pairing": "Rum cake, caramel ice cream, chocolate muffin, or coffee cake."
+        },
+        "region": "south america",
+        "roast": "light",
+        "size": [12],
+        "type": ["decaffeinated", "organic", "regular"],
+        "reviews": 39
+      },
+      {
+        "id": 2,
+        "title": "Kenya AA Medium Roast Single Origin Coffee",
+        "price": 19.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/Kenya-AA-Medium-Roast-Coffee-Coffee-Bean-_-Tea-Leaf-Store-1619088889_300x.jpg?v=1627926543"
+        ],
+        "short_description": "This Kenya AA single origin medium roast is an exquisite coffee with an assertive, lively personality. Directly sourced and expertly roasted in small batches for optimal taste and quality. This whole bean coffee product is packaged in a 1lb bag. Kenya has become the giant of African coffee production, ever since coffee made its way over the mountains from Ethiopia. Kenya AA is the largest bean grown in Kenya, and brews up a complex, fruity, light, and very bright cup. Directly sourced. Expertly roasted for optimal quality and taste.",
+        "full_description": {
+          "profile": "Tangy aroma with hearty body, wine-like acidity and citrus flavor. ",
+          "place": "Mt. Kenya, Kenya ",
+          "blend": "The coffee industry of Kenya is noted for its cooperative system of milling, marketing and auctioning coffee, as well as the high percentage of production from small farms. It is estimated that 6 million Kenyans are employed directly or indirectly in the coffee industry. ",
+          "process": "A wash processed coffee. All Kenyan coffee is graded after it is milled. Grades are based on the screen size of the bean. Beans with a screen size of 17 or 18 (17/64 or 18/64 of an inch) are assigned the grade AA; these are generally the largest beans. It is important to note that size is only one of the many factors in determining high quality coffee. ",
+          "pairing": "Blueberries, caramel and butter croissant."
+        },
+        "region": "africa",
+        "roast": "dark",
+        "size": [12, 16, 32],
+        "type": ["flavored", "organic", "regular"],
+        "reviews": 14
+      },
+      {
+        "id": 3,
+        "title": "Viennese Dark Roast Coffee",
+        "price": 18.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/Viennese-Dark-Roast-Coffee-Coffee-Bean-_-Tea-Leaf-Store-1619088895_300x.jpg?v=1619621523"
+        ],
+        "short_description": "Vienna-style roasting creates a deep brown, medium dark roast that toasts the beans to perfection. Our Viennese Blend combines select coffees from Costa Rica and Brazil for a cup of satisfying balance and depth. Mellow, smooth, and delicately nuanced with hints of chocolate, our Viennese Blend draws on a unique style of coffee roasting in Vienna that dates back to 1683 when Vienna's first coffee house opened. Viennese Dark Roast coffee is available in whole beans.",
+        "full_description": {
+          "profile": "Medium bodied with a rich aroma, full flavor and nuances of chocolate. Bright qualities from the Costa Rica combine with fruity earthiness from Brazil roasted darker to bring out the bittersweet chocolate notes.",
+          "place": "Costa Rica and Brazil ",
+          "blend": "Our experienced roasters design this blend to be an all-purpose dark blend with broad appeal.",
+          "process": "This blend is processed in a combination of washed and dry techniques. The two origin coffees are roasted individually.",
+          "pairing": "Fresh blueberries or cherries, chocolate chip cookie, brownies."
+        },
+        "region": "south america",
+        "roast": "dark",
+        "size": [32],
+        "type": ["flavored", "organic", "regular"],
+        "reviews": 26
+      },
+      {
+        "id": 4,
+        "title": "Bali Blue Moon Single Origin Dark Roast Coffee",
+        "price": 18.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/Bali-Blue-Moon-Dark-Roast-Coffee-Coffee-Bean-_-Tea-Leaf-Store-1619088898_300x.jpg?v=1627923849"
+        ],
+        "short_description": "Bali Blue Moon Dark Roast single origin Coffee has a fragrant toffee aroma with flavors of walnuts and semi-sweet chocolate, with a crisp black cherry finish. This single origin whole bean coffee has a dark & distinctive roast and comes from the Kintamani Highlands in North Bali, Indonesia. Our Bali Blue Moon coffee beans are grown at an altitude between 3200 and 3900 feet, under shade trees, with orange and tangerine trees planted between the rows of coffee. Harvesting is done from May to October when only ripe fruit is picked, and the coffee is then semi-washed with a two-step sun drying process. Directly sourced. Expertly roasted in small batches for optimal taste and quality.",
+        "full_description": {
+          "profile": "Fragrant toffee aroma with flavors of walnuts and semi-sweet chocolate and a crisp black cherry finish.",
+          "place": "Kintamani Highlands, North Bali, Indonesia. This coffee is grown at an altitude between 3,200 and 3,900 feet, under shade trees, with orange and tangerine trees planted",
+          "blend": "The coffee is organically farmed, although not certified. Harvesting is done from May to October and only ripe fruit is picked. The coffee must contain 95% red fruit to be accepted for processing. The coffee is semi-washed, with a two-step sun drying process.",
+          "process": "The coffee is organically farmed, although not certified. Harvesting is done from May to October and only ripe fruit is picked. The coffee must contain 95% red fruit to be accepted for processing. The coffee is semi-washed, with a two-step sun drying process.",
+          "pairing": "Chocolate brownies and bagels."
+        },
+        "region": "asia",
+        "roast": "dark",
+        "size": [32],
+        "type": [
+          "decaffeintated",
+          "organic",
+          "regular",
+          "easy-latte",
+          "flavored",
+          "ground",
+          "reserved",
+          "single origin",
+          "whole bean"
+        ],
+        "reviews": 27
+      }
+    ]
+  },
+  "tea": {
+    "banner": "https://store.coffeebean.com/cdn/shop/collections/Coffee-Bean-Shop-Header-Powder.jpg?v=1647309016",
+    "about": "Tea is the most widely consumed prepared beverage on Earth. And The Coffee Bean & Tea Leaf® is here to bring you the perfect version of the world's favorite drink offering whole leaf gourmet tea. Buy tea online here. When our tea master David DeCandia became the Tea Ambassador of Sri Lanka, we figured we were doing something right. David works directly with private, family-owned tea estates to cultivate the best tea leaves from Sri Lanka, China, Thailand, Japan and India — then we hand-blend them locally for maximum freshness. Because of our standards for quality, taste and heritage, you're sure to enjoy the very best whole-leaf teas and tea blend drinks available anywhere.",
+    "filters": [
+      { "container": ["tea bag", "tea pouches"] },
+      { "type": ["black", "ceylon", "flavored", "fruit infusion", "iced"] }
+    ],
+    "instructions": "Because various teas respond differently, it's important to balance time and temperature. To brew tea, simply steep it in hot water. Steeping is the process of extracting the flavor and health promoting compounds used in making the tea. For this product we recommend the following steep time and maximum temperature: STEEP: 5 Minutes // 195℉ / 91℃",
+    "products": [
+      {
+        "id": 0,
+        "title": "Chai Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-front_15fafdd8-3d60-448e-8d94-691044c67832_300x.jpg?v=1619519832",
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-back_165d837b-ae8a-49ca-a0ad-0fcbaf5d1da1_300x.jpg?v=1619519829",
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-side1_f2354f84-821a-4357-8e55-322aa943f0b2_300x.jpg?v=1619519825",
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-side2_76a9ff4d-0904-4035-a51d-8c3ac9f716ec_300x.jpg?v=1619519821"
+        ],
+        "short_description": "It's Chai time! Exceptional black tea, cinnamon, cloves & cardamom spices combine for a relaxing aromatic beverage. Add our vanilla powder for a wonderful vanilla chai latte. Or add coffee and our chocolate powders for a decadent dirty chai. This is the same chai tea blend used in our cafes. This item includes 20 tea pyramid shaped high quality bags for optimal flavor extraction and comes in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Spicy",
+          "body": "Full",
+          "flvor": "Cardamom, clove, cinnamon",
+          "pairing": "Lemon bars & blueberry scones"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "black"],
+        "reviews": 63
+      },
+      {
+        "id": 1,
+        "title": "Home Tea Dong Ding Oolong Tea Dong Ding Oolong Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/dong-ding-oolong-tea-bags-cbtl-20ct-front_300x.jpg?v=1619617883",
+          "https://store.coffeebean.com/cdn/shop/products/dong-ding-oolong-tea-bags-cbtl-20ct-back_300x.jpg?v=1619617873",
+          "https://store.coffeebean.com/cdn/shop/products/dong-ding-oolong-tea-bags-cbtl-20ct-side1.jpg?v=1619617863",
+          "https://store.coffeebean.com/cdn/shop/products/dong-ding-oolong-tea-bags-cbtl-20ct-side2.jpg?v=1619617843"
+        ],
+        "short_description": "Since 1963 we have traveled the world in search of the finest teas. Dong Ding Oolong Tea has a full-bodied roasted flavor with a sweet grassy aroma and hints of orange and floral notes. This oolong tea comes from Taiwan and is grown in a unique climate and soil that creates this very special tea. This item includes 20 Dong Ding oolong tea bags packaged in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Sweet grassy aroma with hints of floral",
+          "body": "Full",
+          "flvor": "Orange, yellow liquor with a full-bodied and prominent roasted flavor",
+          "pairing": "Enjoy with Asian pear persimmon drizzled with honey"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "fruit infusion"],
+        "reviews": 11
+      },
+      {
+        "id": 2,
+        "title": "Cherry Blossom Green Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/cherry-blossom-green-tea-bags-cbtl-20ct-front.jpg?v=1619523261",
+          "https://store.coffeebean.com/cdn/shop/products/cherry-blossom-green-tea-bags-cbtl-20ct-back.jpg?v=1619523247",
+          "https://store.coffeebean.com/cdn/shop/products/cherry-blossom-green-tea-bags-cbtl-20ct-side1.jpg?v=1619523257",
+          "https://store.coffeebean.com/cdn/shop/products/cherry-blossom-green-tea-bags-cbtl-20ct-side2.jpg?v=1619523265"
+        ],
+        "short_description": "Cherry Blossom Green Tea from The Coffee Bean & Tea Leaf combines pomegranate flowers and natural cherry flavor to create this perfect medium-bodied blend. The whole leaf green tea at the base of Cherry Blossom is cultivated in a pristine garden nestled within the Ba Gua mountains in Taiwan's Nantou County, home to some of the world's finest teas. The end result is a tea that is medium-bodied with a sweet cherry flavor and light grassy aroma. This item includes 20 tea bags in a gift-worthy canister.",
+        "full_description": {
+          "aroma": "Sweet, light grassy",
+          "body": "Medium",
+          "flvor": "Sweet Cherry",
+          "pairing": "Pistachio French Macarons"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "fruit infusion"],
+        "reviews": 36
+      },
+      {
+        "id": 3,
+        "title": "Orchard Peach Iced Tea Pouches",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_18_pouches_cbtl_front.jpg?v=1634224916",
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_cbtl_18_pouches_top.jpg?v=1634918470",
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_cbtl_18_pouches_instructions.jpg?v=1634224930",
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_cbtl_18_pouches_philosophy.jpg?v=1634224948",
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_cbtl_18_pouches_nutritional_ingredients.jpg?v=1634224978"
+        ],
+        "short_description": "Orchard Peach Iced Tea Pouches from The Coffee Bean & Tea Leaf creates a cool refreshment with a juicy peach & green tea flavor. The sweet, succulent flavor of orchard fresh peaches perfectly complements the grassy essence of this green tea. Grown in the mountains of China, this iced tea will provide cool refreshment with every sip. Each pouch makes 32oz of iced tea. This item includes 18 pouches in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Sweet juicy peach",
+          "body": "Medium",
+          "flvor": "Juicy peach and slightly grassy",
+          "pairing": "Carolina BBQ Ribs"
+        },
+        "container": "tea pouches",
+        "type": ["flavored", "black", "fruit infusion"],
+        "reviews": 18
+      },
+      {
+        "id": 4,
+        "title": "Tropical Passion Iced Tea Pouches",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_iced_black_tea_bags_18_pouches_front3.jpg?v=1634228062",
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_flavored_black_iced_tea_cbtl_18_pouches_top_24821ca1-3d2e-42cd-a4cd-9d400eab3327.jpg?v=1634228033",
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_iced_black_tea_bags_18_pouches_instructions.jpg?v=1634226540",
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_iced_black_tea_bags_18_pouches_philosophy.jpg?v=1634226620",
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_iced_black_tea_bags_18_pouches_nutritional_ingredients.jpg?v=1634226577"
+        ],
+        "short_description": "Our hand plucked, pure Tropical Passion Iced tea perfectly combines pure Ceylon black tea from Sri Lanka and the sweet-tart taste of passion fruit and the sweet flavor of guava for a superior iced tea. This product includes 18 pouches packaged in a gift worthy tin canister.",
+        "full_description": {
+          "aroma": "Tropical, fruity",
+          "body": "Medium",
+          "flvor": "Sweet, fruity and slightly woodsy",
+          "pairing": "Banana Macarons"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "fruit infusion"],
+        "reviews": 30
+      },
+      {
+        "id": 5,
+        "title": "Apricot Ceylon Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/apricot-ceylon-black-tea-bags-cbtl-20ct-front.jpg?v=1622235709",
+          "https://store.coffeebean.com/cdn/shop/products/apricot-ceylon-black-tea-bags-cbtl-20ct-back.jpg?v=1622235709",
+          "https://store.coffeebean.com/cdn/shop/products/apricot-ceylon-black-tea-bags-cbtl-20ct-side1.jpg?v=1622235709",
+          "https://store.coffeebean.com/cdn/shop/products/apricot-ceylon-black-tea-bags-cbtl-20ct-side2.jpg?v=1622235709"
+        ],
+        "short_description": "Apricot Ceylon Black Tea from The Coffee Bean & Tea Leaf combines the mellow taste of Bogawantalawa Estate Ceylon whole leaf black tea with the delicate flavor of Apricot to produce this well-balanced tea. Delightfully aromatic, with a fruity aroma and light body, this tea is perfect for a relaxing cup of indulgence. This item includes 20 tea bags in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Floral & Fruity",
+          "body": "Light",
+          "flvor": "Apricot",
+          "pairing": "Butter Cookies"
+        },
+        "container": "tea pouches",
+        "type": ["flavored", "fruit infusion", "ceylon"],
+        "reviews": 57
+      },
+      {
+        "id": 6,
+        "title": "Earl Grey Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/earl-grey-black-tea-bags-canister-cbtl-20ct-front.jpg?v=1619617444",
+          "https://store.coffeebean.com/cdn/shop/products/earl-grey-black-tea-bags-canister-cbtl-20ct-back.jpg?v=1619617423",
+          "https://store.coffeebean.com/cdn/shop/products/earl-grey-black-tea-bags-canister-cbtl-20ct-side2.jpg?v=1619617416"
+        ],
+        "short_description": "Made with Single Origin Ceylon from Bogawantalawa Valley in the Central Highlands of Sri Lanka and natural essential oil extracted from the skin of bergamot grown in Southern Italy; Our exclusive flavored Earl Grey is bold and sweet with delicate citrus notes and a deep sienna flavor liquor. One of the most famous, and rightfully distinctive teas in all the world, Earl Grey derives its unique flavor from oil of Bergamot, a Mediterranean citrus fruit like an orange (in case you were wondering). Named after the 2nd Earl Grey, a British prime minister who received this flavored tea as a gift and served it in his ministerial drawing rooms, the tea has been in continuous production since the 1830s. Enjoy it black or with milk. This item includes 20 tea bags in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Fragrant & Citrusy",
+          "body": "Full",
+          "flvor": "Rich Citrus",
+          "pairing": "Chocolate Custard, Creme Brulee"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "black"],
+        "reviews": 42
+      },
+      {
+        "id": 7,
+        "title": "English Breakfast Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/english-breakfast-tea-bags-black-cbtl-20ct-front.jpg?v=1619617683",
+          "https://store.coffeebean.com/cdn/shop/products/english-breakfast-tea-bags-black-cbtl-20ct-back.jpg?v=1619617663",
+          "https://store.coffeebean.com/cdn/shop/products/english-breakfast-tea-bags-black-cbtl-20ct-side1.jpg?v=1619617656",
+          "https://store.coffeebean.com/cdn/shop/products/english-breakfast-tea-bags-black-cbtl-20ct-side2.jpg?v=1619617643"
+        ],
+        "short_description": "Brisk and invigorating, our English Breakfast Tea is a blend of black teas from Sri Lankan Ceylon, Taiwanese Black Tea, and Chinese Keemun Black Tea. Our crisp, smooth, and medium-bodied blend is our take on a beloved classic and a tribute to England's tradition of tea drinking. Add our vanilla powder for a wonderful vanilla tea latte. This item includes 20 tea bags in a gift-worthy tin canister. Customers that purchased out Scottish Breakfast Tea (now discontinued) also enjoy this product.",
+        "full_description": {
+          "aroma": "Sweet",
+          "body": "Medium",
+          "flvor": "Robust and balanced with an astringent finish",
+          "pairing": "Bangers and Mash, English Muffins"
+        },
+        "container": "tea pouches",
+        "type": ["flavored", "black", "ceylon"],
+        "reviews": 41
+      },
+      {
+        "id": 8,
+        "title": "Estate Darjeeling Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/darjeeling-black-tea-bas-estate-cbtl-20ct-front.jpg?v=1619617776",
+          "https://store.coffeebean.com/cdn/shop/products/darjeeling-black-tea-bas-estate-cbtl-20ct-back.jpg?v=1619617763",
+          "https://store.coffeebean.com/cdn/shop/products/darjeeling-black-tea-bas-estate-cbtl-20ct-side1.jpg?v=1619617753",
+          "https://store.coffeebean.com/cdn/shop/products/darjeeling-black-tea-bas-estate-cbtl-20ct-side2.jpg?v=1619617743"
+        ],
+        "short_description": "Darjeeling Black Tea from The Coffee Bean & Tea Leaf has a lively full-bodied yet light and delicate taste and a fragrant aroma. Darjeeling teas are sometimes referred to as the champagne of teas. Located in Northeastern India, the Darjeeling tea region is situated in altitudes of more than 6,000 feet with breathtaking views of the Himalayan mountains. The combination of the moist cool climate, the rich soil, the frequent rainfall and the gradually sloping terrain gives Darjeeling tea its famous unique flavor. Darjeeling teas have a very limited harvest, making this tea one of the finest in the world. This item includes 20 tea bags in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Fragrant",
+          "body": "Full",
+          "flvor": "Lively",
+          "pairing": "Apple tarts & biscuits"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "fruit infusion"],
+        "reviews": 8
+      },
+      {
+        "id": 9,
+        "title": "Pomegranate Blueberry Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/pomegranate-blueberry-tea-bags-cbtl-20ct.-front.jpg?v=1619530650",
+          "https://store.coffeebean.com/cdn/shop/products/pomegranate-blueberry-tea-bags-cbtl-20ct.-back.jpg?v=1619530646",
+          "https://store.coffeebean.com/cdn/shop/products/pomegranate-blueberry-tea-bags-cbtl-20ct.-side1.jpg?v=1619530642",
+          "https://store.coffeebean.com/cdn/shop/products/pomegranate-blueberry-tea-bags-cbtl-20ct.-side2.jpg?v=1619530637"
+        ],
+        "short_description": "Pomegranate Blueberry Tea combines our famous Lung Ching Dragonwell Green, premium Oolong, and Ceylon Teas. We then infuse them with blueberry and pomegranate flavoring, along with bits of blueberries for a delightfully aromatic tea. Fresh, fruity, and bright with flavor, this tea exhibits bright berry notes and a naturally sweet finish. This item includes 20 tea bags in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Fruity",
+          "body": "Medium",
+          "flvor": "Bright & Fruity",
+          "pairing": "Oatmeal, walnuts"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "black", "fruit infusion"],
+        "reviews": 23
+      },
+      {
+        "id": 10,
+        "title": "Chai Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-front_15fafdd8-3d60-448e-8d94-691044c67832_300x.jpg?v=1619519832",
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-back_165d837b-ae8a-49ca-a0ad-0fcbaf5d1da1_300x.jpg?v=1619519829",
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-side1_f2354f84-821a-4357-8e55-322aa943f0b2_300x.jpg?v=1619519825",
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-side2_76a9ff4d-0904-4035-a51d-8c3ac9f716ec_300x.jpg?v=1619519821"
+        ],
+        "short_description": "It's Chai time! Exceptional black tea, cinnamon, cloves & cardamom spices combine for a relaxing aromatic beverage. Add our vanilla powder for a wonderful vanilla chai latte. Or add coffee and our chocolate powders for a decadent dirty chai. This is the same chai tea blend used in our cafes. This item includes 20 tea pyramid shaped high quality bags for optimal flavor extraction and comes in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Spicy",
+          "body": "Full",
+          "flvor": "Cardamom, clove, cinnamon",
+          "pairing": "Lemon bars & blueberry scones"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "black"],
+        "reviews": 63
+      },
+      {
+        "id": 11,
+        "title": "Home Tea Dong Ding Oolong Tea Dong Ding Oolong Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/dong-ding-oolong-tea-bags-cbtl-20ct-front_300x.jpg?v=1619617883",
+          "https://store.coffeebean.com/cdn/shop/products/dong-ding-oolong-tea-bags-cbtl-20ct-back_300x.jpg?v=1619617873",
+          "https://store.coffeebean.com/cdn/shop/products/dong-ding-oolong-tea-bags-cbtl-20ct-side1.jpg?v=1619617863",
+          "https://store.coffeebean.com/cdn/shop/products/dong-ding-oolong-tea-bags-cbtl-20ct-side2.jpg?v=1619617843"
+        ],
+        "short_description": "Since 1963 we have traveled the world in search of the finest teas. Dong Ding Oolong Tea has a full-bodied roasted flavor with a sweet grassy aroma and hints of orange and floral notes. This oolong tea comes from Taiwan and is grown in a unique climate and soil that creates this very special tea. This item includes 20 Dong Ding oolong tea bags packaged in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Sweet grassy aroma with hints of floral",
+          "body": "Full",
+          "flvor": "Orange, yellow liquor with a full-bodied and prominent roasted flavor",
+          "pairing": "Enjoy with Asian pear persimmon drizzled with honey"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "fruit infusion"],
+        "reviews": 11
+      },
+      {
+        "id": 12,
+        "title": "Cherry Blossom Green Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/cherry-blossom-green-tea-bags-cbtl-20ct-front.jpg?v=1619523261",
+          "https://store.coffeebean.com/cdn/shop/products/cherry-blossom-green-tea-bags-cbtl-20ct-back.jpg?v=1619523247",
+          "https://store.coffeebean.com/cdn/shop/products/cherry-blossom-green-tea-bags-cbtl-20ct-side1.jpg?v=1619523257",
+          "https://store.coffeebean.com/cdn/shop/products/cherry-blossom-green-tea-bags-cbtl-20ct-side2.jpg?v=1619523265"
+        ],
+        "short_description": "Cherry Blossom Green Tea from The Coffee Bean & Tea Leaf combines pomegranate flowers and natural cherry flavor to create this perfect medium-bodied blend. The whole leaf green tea at the base of Cherry Blossom is cultivated in a pristine garden nestled within the Ba Gua mountains in Taiwan's Nantou County, home to some of the world's finest teas. The end result is a tea that is medium-bodied with a sweet cherry flavor and light grassy aroma. This item includes 20 tea bags in a gift-worthy canister.",
+        "full_description": {
+          "aroma": "Sweet, light grassy",
+          "body": "Medium",
+          "flvor": "Sweet Cherry",
+          "pairing": "Pistachio French Macarons"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "fruit infusion"],
+        "reviews": 36
+      },
+      {
+        "id": 13,
+        "title": "Orchard Peach Iced Tea Pouches",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_18_pouches_cbtl_front.jpg?v=1634224916",
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_cbtl_18_pouches_top.jpg?v=1634918470",
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_cbtl_18_pouches_instructions.jpg?v=1634224930",
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_cbtl_18_pouches_philosophy.jpg?v=1634224948",
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_cbtl_18_pouches_nutritional_ingredients.jpg?v=1634224978"
+        ],
+        "short_description": "Orchard Peach Iced Tea Pouches from The Coffee Bean & Tea Leaf creates a cool refreshment with a juicy peach & green tea flavor. The sweet, succulent flavor of orchard fresh peaches perfectly complements the grassy essence of this green tea. Grown in the mountains of China, this iced tea will provide cool refreshment with every sip. Each pouch makes 32oz of iced tea. This item includes 18 pouches in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Sweet juicy peach",
+          "body": "Medium",
+          "flvor": "Juicy peach and slightly grassy",
+          "pairing": "Carolina BBQ Ribs"
+        },
+        "container": "tea pouches",
+        "type": ["flavored", "black", "fruit infusion"],
+        "reviews": 18
+      },
+      {
+        "id": 14,
+        "title": "Tropical Passion Iced Tea Pouches",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_iced_black_tea_bags_18_pouches_front3.jpg?v=1634228062",
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_flavored_black_iced_tea_cbtl_18_pouches_top_24821ca1-3d2e-42cd-a4cd-9d400eab3327.jpg?v=1634228033",
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_iced_black_tea_bags_18_pouches_instructions.jpg?v=1634226540",
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_iced_black_tea_bags_18_pouches_philosophy.jpg?v=1634226620",
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_iced_black_tea_bags_18_pouches_nutritional_ingredients.jpg?v=1634226577"
+        ],
+        "short_description": "Our hand plucked, pure Tropical Passion Iced tea perfectly combines pure Ceylon black tea from Sri Lanka and the sweet-tart taste of passion fruit and the sweet flavor of guava for a superior iced tea. This product includes 18 pouches packaged in a gift worthy tin canister.",
+        "full_description": {
+          "aroma": "Tropical, fruity",
+          "body": "Medium",
+          "flvor": "Sweet, fruity and slightly woodsy",
+          "pairing": "Banana Macarons"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "fruit infusion"],
+        "reviews": 30
+      },
+      {
+        "id": 15,
+        "title": "Apricot Ceylon Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/apricot-ceylon-black-tea-bags-cbtl-20ct-front.jpg?v=1622235709",
+          "https://store.coffeebean.com/cdn/shop/products/apricot-ceylon-black-tea-bags-cbtl-20ct-back.jpg?v=1622235709",
+          "https://store.coffeebean.com/cdn/shop/products/apricot-ceylon-black-tea-bags-cbtl-20ct-side1.jpg?v=1622235709",
+          "https://store.coffeebean.com/cdn/shop/products/apricot-ceylon-black-tea-bags-cbtl-20ct-side2.jpg?v=1622235709"
+        ],
+        "short_description": "Apricot Ceylon Black Tea from The Coffee Bean & Tea Leaf combines the mellow taste of Bogawantalawa Estate Ceylon whole leaf black tea with the delicate flavor of Apricot to produce this well-balanced tea. Delightfully aromatic, with a fruity aroma and light body, this tea is perfect for a relaxing cup of indulgence. This item includes 20 tea bags in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Floral & Fruity",
+          "body": "Light",
+          "flvor": "Apricot",
+          "pairing": "Butter Cookies"
+        },
+        "container": "tea pouches",
+        "type": ["flavored", "fruit infusion", "ceylon"],
+        "reviews": 57
+      },
+      {
+        "id": 16,
+        "title": "Earl Grey Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/earl-grey-black-tea-bags-canister-cbtl-20ct-front.jpg?v=1619617444",
+          "https://store.coffeebean.com/cdn/shop/products/earl-grey-black-tea-bags-canister-cbtl-20ct-back.jpg?v=1619617423",
+          "https://store.coffeebean.com/cdn/shop/products/earl-grey-black-tea-bags-canister-cbtl-20ct-side2.jpg?v=1619617416"
+        ],
+        "short_description": "Made with Single Origin Ceylon from Bogawantalawa Valley in the Central Highlands of Sri Lanka and natural essential oil extracted from the skin of bergamot grown in Southern Italy; Our exclusive flavored Earl Grey is bold and sweet with delicate citrus notes and a deep sienna flavor liquor. One of the most famous, and rightfully distinctive teas in all the world, Earl Grey derives its unique flavor from oil of Bergamot, a Mediterranean citrus fruit like an orange (in case you were wondering). Named after the 2nd Earl Grey, a British prime minister who received this flavored tea as a gift and served it in his ministerial drawing rooms, the tea has been in continuous production since the 1830s. Enjoy it black or with milk. This item includes 20 tea bags in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Fragrant & Citrusy",
+          "body": "Full",
+          "flvor": "Rich Citrus",
+          "pairing": "Chocolate Custard, Creme Brulee"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "black"],
+        "reviews": 42
+      },
+      {
+        "id": 17,
+        "title": "English Breakfast Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/english-breakfast-tea-bags-black-cbtl-20ct-front.jpg?v=1619617683",
+          "https://store.coffeebean.com/cdn/shop/products/english-breakfast-tea-bags-black-cbtl-20ct-back.jpg?v=1619617663",
+          "https://store.coffeebean.com/cdn/shop/products/english-breakfast-tea-bags-black-cbtl-20ct-side1.jpg?v=1619617656",
+          "https://store.coffeebean.com/cdn/shop/products/english-breakfast-tea-bags-black-cbtl-20ct-side2.jpg?v=1619617643"
+        ],
+        "short_description": "Brisk and invigorating, our English Breakfast Tea is a blend of black teas from Sri Lankan Ceylon, Taiwanese Black Tea, and Chinese Keemun Black Tea. Our crisp, smooth, and medium-bodied blend is our take on a beloved classic and a tribute to England's tradition of tea drinking. Add our vanilla powder for a wonderful vanilla tea latte. This item includes 20 tea bags in a gift-worthy tin canister. Customers that purchased out Scottish Breakfast Tea (now discontinued) also enjoy this product.",
+        "full_description": {
+          "aroma": "Sweet",
+          "body": "Medium",
+          "flvor": "Robust and balanced with an astringent finish",
+          "pairing": "Bangers and Mash, English Muffins"
+        },
+        "container": "tea pouches",
+        "type": ["flavored", "black", "ceylon"],
+        "reviews": 41
+      },
+      {
+        "id": 18,
+        "title": "Estate Darjeeling Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/darjeeling-black-tea-bas-estate-cbtl-20ct-front.jpg?v=1619617776",
+          "https://store.coffeebean.com/cdn/shop/products/darjeeling-black-tea-bas-estate-cbtl-20ct-back.jpg?v=1619617763",
+          "https://store.coffeebean.com/cdn/shop/products/darjeeling-black-tea-bas-estate-cbtl-20ct-side1.jpg?v=1619617753",
+          "https://store.coffeebean.com/cdn/shop/products/darjeeling-black-tea-bas-estate-cbtl-20ct-side2.jpg?v=1619617743"
+        ],
+        "short_description": "Darjeeling Black Tea from The Coffee Bean & Tea Leaf has a lively full-bodied yet light and delicate taste and a fragrant aroma. Darjeeling teas are sometimes referred to as the champagne of teas. Located in Northeastern India, the Darjeeling tea region is situated in altitudes of more than 6,000 feet with breathtaking views of the Himalayan mountains. The combination of the moist cool climate, the rich soil, the frequent rainfall and the gradually sloping terrain gives Darjeeling tea its famous unique flavor. Darjeeling teas have a very limited harvest, making this tea one of the finest in the world. This item includes 20 tea bags in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Fragrant",
+          "body": "Full",
+          "flvor": "Lively",
+          "pairing": "Apple tarts & biscuits"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "fruit infusion"],
+        "reviews": 8
+      },
+      {
+        "id": 19,
+        "title": "Pomegranate Blueberry Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/pomegranate-blueberry-tea-bags-cbtl-20ct.-front.jpg?v=1619530650",
+          "https://store.coffeebean.com/cdn/shop/products/pomegranate-blueberry-tea-bags-cbtl-20ct.-back.jpg?v=1619530646",
+          "https://store.coffeebean.com/cdn/shop/products/pomegranate-blueberry-tea-bags-cbtl-20ct.-side1.jpg?v=1619530642",
+          "https://store.coffeebean.com/cdn/shop/products/pomegranate-blueberry-tea-bags-cbtl-20ct.-side2.jpg?v=1619530637"
+        ],
+        "short_description": "Pomegranate Blueberry Tea combines our famous Lung Ching Dragonwell Green, premium Oolong, and Ceylon Teas. We then infuse them with blueberry and pomegranate flavoring, along with bits of blueberries for a delightfully aromatic tea. Fresh, fruity, and bright with flavor, this tea exhibits bright berry notes and a naturally sweet finish. This item includes 20 tea bags in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Fruity",
+          "body": "Medium",
+          "flvor": "Bright & Fruity",
+          "pairing": "Oatmeal, walnuts"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "black", "fruit infusion"],
+        "reviews": 23
+      },
+      {
+        "id": 20,
+        "title": "Chai Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-front_15fafdd8-3d60-448e-8d94-691044c67832_300x.jpg?v=1619519832",
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-back_165d837b-ae8a-49ca-a0ad-0fcbaf5d1da1_300x.jpg?v=1619519829",
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-side1_f2354f84-821a-4357-8e55-322aa943f0b2_300x.jpg?v=1619519825",
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-side2_76a9ff4d-0904-4035-a51d-8c3ac9f716ec_300x.jpg?v=1619519821"
+        ],
+        "short_description": "It's Chai time! Exceptional black tea, cinnamon, cloves & cardamom spices combine for a relaxing aromatic beverage. Add our vanilla powder for a wonderful vanilla chai latte. Or add coffee and our chocolate powders for a decadent dirty chai. This is the same chai tea blend used in our cafes. This item includes 20 tea pyramid shaped high quality bags for optimal flavor extraction and comes in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Spicy",
+          "body": "Full",
+          "flvor": "Cardamom, clove, cinnamon",
+          "pairing": "Lemon bars & blueberry scones"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "black"],
+        "reviews": 63
+      },
+      {
+        "id": 21,
+        "title": "Home Tea Dong Ding Oolong Tea Dong Ding Oolong Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/dong-ding-oolong-tea-bags-cbtl-20ct-front_300x.jpg?v=1619617883",
+          "https://store.coffeebean.com/cdn/shop/products/dong-ding-oolong-tea-bags-cbtl-20ct-back_300x.jpg?v=1619617873",
+          "https://store.coffeebean.com/cdn/shop/products/dong-ding-oolong-tea-bags-cbtl-20ct-side1.jpg?v=1619617863",
+          "https://store.coffeebean.com/cdn/shop/products/dong-ding-oolong-tea-bags-cbtl-20ct-side2.jpg?v=1619617843"
+        ],
+        "short_description": "Since 1963 we have traveled the world in search of the finest teas. Dong Ding Oolong Tea has a full-bodied roasted flavor with a sweet grassy aroma and hints of orange and floral notes. This oolong tea comes from Taiwan and is grown in a unique climate and soil that creates this very special tea. This item includes 20 Dong Ding oolong tea bags packaged in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Sweet grassy aroma with hints of floral",
+          "body": "Full",
+          "flvor": "Orange, yellow liquor with a full-bodied and prominent roasted flavor",
+          "pairing": "Enjoy with Asian pear persimmon drizzled with honey"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "fruit infusion"],
+        "reviews": 11
+      },
+      {
+        "id": 22,
+        "title": "Cherry Blossom Green Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/cherry-blossom-green-tea-bags-cbtl-20ct-front.jpg?v=1619523261",
+          "https://store.coffeebean.com/cdn/shop/products/cherry-blossom-green-tea-bags-cbtl-20ct-back.jpg?v=1619523247",
+          "https://store.coffeebean.com/cdn/shop/products/cherry-blossom-green-tea-bags-cbtl-20ct-side1.jpg?v=1619523257",
+          "https://store.coffeebean.com/cdn/shop/products/cherry-blossom-green-tea-bags-cbtl-20ct-side2.jpg?v=1619523265"
+        ],
+        "short_description": "Cherry Blossom Green Tea from The Coffee Bean & Tea Leaf combines pomegranate flowers and natural cherry flavor to create this perfect medium-bodied blend. The whole leaf green tea at the base of Cherry Blossom is cultivated in a pristine garden nestled within the Ba Gua mountains in Taiwan's Nantou County, home to some of the world's finest teas. The end result is a tea that is medium-bodied with a sweet cherry flavor and light grassy aroma. This item includes 20 tea bags in a gift-worthy canister.",
+        "full_description": {
+          "aroma": "Sweet, light grassy",
+          "body": "Medium",
+          "flvor": "Sweet Cherry",
+          "pairing": "Pistachio French Macarons"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "fruit infusion"],
+        "reviews": 36
+      },
+      {
+        "id": 23,
+        "title": "Orchard Peach Iced Tea Pouches",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_18_pouches_cbtl_front.jpg?v=1634224916",
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_cbtl_18_pouches_top.jpg?v=1634918470",
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_cbtl_18_pouches_instructions.jpg?v=1634224930",
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_cbtl_18_pouches_philosophy.jpg?v=1634224948",
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_cbtl_18_pouches_nutritional_ingredients.jpg?v=1634224978"
+        ],
+        "short_description": "Orchard Peach Iced Tea Pouches from The Coffee Bean & Tea Leaf creates a cool refreshment with a juicy peach & green tea flavor. The sweet, succulent flavor of orchard fresh peaches perfectly complements the grassy essence of this green tea. Grown in the mountains of China, this iced tea will provide cool refreshment with every sip. Each pouch makes 32oz of iced tea. This item includes 18 pouches in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Sweet juicy peach",
+          "body": "Medium",
+          "flvor": "Juicy peach and slightly grassy",
+          "pairing": "Carolina BBQ Ribs"
+        },
+        "container": "tea pouches",
+        "type": ["flavored", "black", "fruit infusion"],
+        "reviews": 18
+      },
+      {
+        "id": 24,
+        "title": "Tropical Passion Iced Tea Pouches",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_iced_black_tea_bags_18_pouches_front3.jpg?v=1634228062",
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_flavored_black_iced_tea_cbtl_18_pouches_top_24821ca1-3d2e-42cd-a4cd-9d400eab3327.jpg?v=1634228033",
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_iced_black_tea_bags_18_pouches_instructions.jpg?v=1634226540",
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_iced_black_tea_bags_18_pouches_philosophy.jpg?v=1634226620",
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_iced_black_tea_bags_18_pouches_nutritional_ingredients.jpg?v=1634226577"
+        ],
+        "short_description": "Our hand plucked, pure Tropical Passion Iced tea perfectly combines pure Ceylon black tea from Sri Lanka and the sweet-tart taste of passion fruit and the sweet flavor of guava for a superior iced tea. This product includes 18 pouches packaged in a gift worthy tin canister.",
+        "full_description": {
+          "aroma": "Tropical, fruity",
+          "body": "Medium",
+          "flvor": "Sweet, fruity and slightly woodsy",
+          "pairing": "Banana Macarons"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "fruit infusion"],
+        "reviews": 30
+      },
+      {
+        "id": 25,
+        "title": "Apricot Ceylon Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/apricot-ceylon-black-tea-bags-cbtl-20ct-front.jpg?v=1622235709",
+          "https://store.coffeebean.com/cdn/shop/products/apricot-ceylon-black-tea-bags-cbtl-20ct-back.jpg?v=1622235709",
+          "https://store.coffeebean.com/cdn/shop/products/apricot-ceylon-black-tea-bags-cbtl-20ct-side1.jpg?v=1622235709",
+          "https://store.coffeebean.com/cdn/shop/products/apricot-ceylon-black-tea-bags-cbtl-20ct-side2.jpg?v=1622235709"
+        ],
+        "short_description": "Apricot Ceylon Black Tea from The Coffee Bean & Tea Leaf combines the mellow taste of Bogawantalawa Estate Ceylon whole leaf black tea with the delicate flavor of Apricot to produce this well-balanced tea. Delightfully aromatic, with a fruity aroma and light body, this tea is perfect for a relaxing cup of indulgence. This item includes 20 tea bags in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Floral & Fruity",
+          "body": "Light",
+          "flvor": "Apricot",
+          "pairing": "Butter Cookies"
+        },
+        "container": "tea pouches",
+        "type": ["flavored", "fruit infusion", "ceylon"],
+        "reviews": 57
+      },
+      {
+        "id": 26,
+        "title": "Earl Grey Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/earl-grey-black-tea-bags-canister-cbtl-20ct-front.jpg?v=1619617444",
+          "https://store.coffeebean.com/cdn/shop/products/earl-grey-black-tea-bags-canister-cbtl-20ct-back.jpg?v=1619617423",
+          "https://store.coffeebean.com/cdn/shop/products/earl-grey-black-tea-bags-canister-cbtl-20ct-side2.jpg?v=1619617416"
+        ],
+        "short_description": "Made with Single Origin Ceylon from Bogawantalawa Valley in the Central Highlands of Sri Lanka and natural essential oil extracted from the skin of bergamot grown in Southern Italy; Our exclusive flavored Earl Grey is bold and sweet with delicate citrus notes and a deep sienna flavor liquor. One of the most famous, and rightfully distinctive teas in all the world, Earl Grey derives its unique flavor from oil of Bergamot, a Mediterranean citrus fruit like an orange (in case you were wondering). Named after the 2nd Earl Grey, a British prime minister who received this flavored tea as a gift and served it in his ministerial drawing rooms, the tea has been in continuous production since the 1830s. Enjoy it black or with milk. This item includes 20 tea bags in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Fragrant & Citrusy",
+          "body": "Full",
+          "flvor": "Rich Citrus",
+          "pairing": "Chocolate Custard, Creme Brulee"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "black"],
+        "reviews": 42
+      },
+      {
+        "id": 27,
+        "title": "English Breakfast Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/english-breakfast-tea-bags-black-cbtl-20ct-front.jpg?v=1619617683",
+          "https://store.coffeebean.com/cdn/shop/products/english-breakfast-tea-bags-black-cbtl-20ct-back.jpg?v=1619617663",
+          "https://store.coffeebean.com/cdn/shop/products/english-breakfast-tea-bags-black-cbtl-20ct-side1.jpg?v=1619617656",
+          "https://store.coffeebean.com/cdn/shop/products/english-breakfast-tea-bags-black-cbtl-20ct-side2.jpg?v=1619617643"
+        ],
+        "short_description": "Brisk and invigorating, our English Breakfast Tea is a blend of black teas from Sri Lankan Ceylon, Taiwanese Black Tea, and Chinese Keemun Black Tea. Our crisp, smooth, and medium-bodied blend is our take on a beloved classic and a tribute to England's tradition of tea drinking. Add our vanilla powder for a wonderful vanilla tea latte. This item includes 20 tea bags in a gift-worthy tin canister. Customers that purchased out Scottish Breakfast Tea (now discontinued) also enjoy this product.",
+        "full_description": {
+          "aroma": "Sweet",
+          "body": "Medium",
+          "flvor": "Robust and balanced with an astringent finish",
+          "pairing": "Bangers and Mash, English Muffins"
+        },
+        "container": "tea pouches",
+        "type": ["flavored", "black", "ceylon"],
+        "reviews": 41
+      },
+      {
+        "id": 28,
+        "title": "Estate Darjeeling Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/darjeeling-black-tea-bas-estate-cbtl-20ct-front.jpg?v=1619617776",
+          "https://store.coffeebean.com/cdn/shop/products/darjeeling-black-tea-bas-estate-cbtl-20ct-back.jpg?v=1619617763",
+          "https://store.coffeebean.com/cdn/shop/products/darjeeling-black-tea-bas-estate-cbtl-20ct-side1.jpg?v=1619617753",
+          "https://store.coffeebean.com/cdn/shop/products/darjeeling-black-tea-bas-estate-cbtl-20ct-side2.jpg?v=1619617743"
+        ],
+        "short_description": "Darjeeling Black Tea from The Coffee Bean & Tea Leaf has a lively full-bodied yet light and delicate taste and a fragrant aroma. Darjeeling teas are sometimes referred to as the champagne of teas. Located in Northeastern India, the Darjeeling tea region is situated in altitudes of more than 6,000 feet with breathtaking views of the Himalayan mountains. The combination of the moist cool climate, the rich soil, the frequent rainfall and the gradually sloping terrain gives Darjeeling tea its famous unique flavor. Darjeeling teas have a very limited harvest, making this tea one of the finest in the world. This item includes 20 tea bags in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Fragrant",
+          "body": "Full",
+          "flvor": "Lively",
+          "pairing": "Apple tarts & biscuits"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "fruit infusion"],
+        "reviews": 8
+      },
+      {
+        "id": 29,
+        "title": "Pomegranate Blueberry Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/pomegranate-blueberry-tea-bags-cbtl-20ct.-front.jpg?v=1619530650",
+          "https://store.coffeebean.com/cdn/shop/products/pomegranate-blueberry-tea-bags-cbtl-20ct.-back.jpg?v=1619530646",
+          "https://store.coffeebean.com/cdn/shop/products/pomegranate-blueberry-tea-bags-cbtl-20ct.-side1.jpg?v=1619530642",
+          "https://store.coffeebean.com/cdn/shop/products/pomegranate-blueberry-tea-bags-cbtl-20ct.-side2.jpg?v=1619530637"
+        ],
+        "short_description": "Pomegranate Blueberry Tea combines our famous Lung Ching Dragonwell Green, premium Oolong, and Ceylon Teas. We then infuse them with blueberry and pomegranate flavoring, along with bits of blueberries for a delightfully aromatic tea. Fresh, fruity, and bright with flavor, this tea exhibits bright berry notes and a naturally sweet finish. This item includes 20 tea bags in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Fruity",
+          "body": "Medium",
+          "flvor": "Bright & Fruity",
+          "pairing": "Oatmeal, walnuts"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "black", "fruit infusion"],
+        "reviews": 23
+      },
+      {
+        "id": 30,
+        "title": "Chai Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-front_15fafdd8-3d60-448e-8d94-691044c67832_300x.jpg?v=1619519832",
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-back_165d837b-ae8a-49ca-a0ad-0fcbaf5d1da1_300x.jpg?v=1619519829",
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-side1_f2354f84-821a-4357-8e55-322aa943f0b2_300x.jpg?v=1619519825",
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-side2_76a9ff4d-0904-4035-a51d-8c3ac9f716ec_300x.jpg?v=1619519821"
+        ],
+        "short_description": "It's Chai time! Exceptional black tea, cinnamon, cloves & cardamom spices combine for a relaxing aromatic beverage. Add our vanilla powder for a wonderful vanilla chai latte. Or add coffee and our chocolate powders for a decadent dirty chai. This is the same chai tea blend used in our cafes. This item includes 20 tea pyramid shaped high quality bags for optimal flavor extraction and comes in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Spicy",
+          "body": "Full",
+          "flvor": "Cardamom, clove, cinnamon",
+          "pairing": "Lemon bars & blueberry scones"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "black"],
+        "reviews": 63
+      },
+      {
+        "id": 31,
+        "title": "Home Tea Dong Ding Oolong Tea Dong Ding Oolong Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/dong-ding-oolong-tea-bags-cbtl-20ct-front_300x.jpg?v=1619617883",
+          "https://store.coffeebean.com/cdn/shop/products/dong-ding-oolong-tea-bags-cbtl-20ct-back_300x.jpg?v=1619617873",
+          "https://store.coffeebean.com/cdn/shop/products/dong-ding-oolong-tea-bags-cbtl-20ct-side1.jpg?v=1619617863",
+          "https://store.coffeebean.com/cdn/shop/products/dong-ding-oolong-tea-bags-cbtl-20ct-side2.jpg?v=1619617843"
+        ],
+        "short_description": "Since 1963 we have traveled the world in search of the finest teas. Dong Ding Oolong Tea has a full-bodied roasted flavor with a sweet grassy aroma and hints of orange and floral notes. This oolong tea comes from Taiwan and is grown in a unique climate and soil that creates this very special tea. This item includes 20 Dong Ding oolong tea bags packaged in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Sweet grassy aroma with hints of floral",
+          "body": "Full",
+          "flvor": "Orange, yellow liquor with a full-bodied and prominent roasted flavor",
+          "pairing": "Enjoy with Asian pear persimmon drizzled with honey"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "fruit infusion"],
+        "reviews": 11
+      },
+      {
+        "id": 32,
+        "title": "Cherry Blossom Green Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/cherry-blossom-green-tea-bags-cbtl-20ct-front.jpg?v=1619523261",
+          "https://store.coffeebean.com/cdn/shop/products/cherry-blossom-green-tea-bags-cbtl-20ct-back.jpg?v=1619523247",
+          "https://store.coffeebean.com/cdn/shop/products/cherry-blossom-green-tea-bags-cbtl-20ct-side1.jpg?v=1619523257",
+          "https://store.coffeebean.com/cdn/shop/products/cherry-blossom-green-tea-bags-cbtl-20ct-side2.jpg?v=1619523265"
+        ],
+        "short_description": "Cherry Blossom Green Tea from The Coffee Bean & Tea Leaf combines pomegranate flowers and natural cherry flavor to create this perfect medium-bodied blend. The whole leaf green tea at the base of Cherry Blossom is cultivated in a pristine garden nestled within the Ba Gua mountains in Taiwan's Nantou County, home to some of the world's finest teas. The end result is a tea that is medium-bodied with a sweet cherry flavor and light grassy aroma. This item includes 20 tea bags in a gift-worthy canister.",
+        "full_description": {
+          "aroma": "Sweet, light grassy",
+          "body": "Medium",
+          "flvor": "Sweet Cherry",
+          "pairing": "Pistachio French Macarons"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "fruit infusion"],
+        "reviews": 36
+      },
+      {
+        "id": 33,
+        "title": "Orchard Peach Iced Tea Pouches",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_18_pouches_cbtl_front.jpg?v=1634224916",
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_cbtl_18_pouches_top.jpg?v=1634918470",
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_cbtl_18_pouches_instructions.jpg?v=1634224930",
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_cbtl_18_pouches_philosophy.jpg?v=1634224948",
+          "https://store.coffeebean.com/cdn/shop/products/orchard_peach_flavored_green_tea_cbtl_18_pouches_nutritional_ingredients.jpg?v=1634224978"
+        ],
+        "short_description": "Orchard Peach Iced Tea Pouches from The Coffee Bean & Tea Leaf creates a cool refreshment with a juicy peach & green tea flavor. The sweet, succulent flavor of orchard fresh peaches perfectly complements the grassy essence of this green tea. Grown in the mountains of China, this iced tea will provide cool refreshment with every sip. Each pouch makes 32oz of iced tea. This item includes 18 pouches in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Sweet juicy peach",
+          "body": "Medium",
+          "flvor": "Juicy peach and slightly grassy",
+          "pairing": "Carolina BBQ Ribs"
+        },
+        "container": "tea pouches",
+        "type": ["flavored", "black", "fruit infusion"],
+        "reviews": 18
+      },
+      {
+        "id": 34,
+        "title": "Tropical Passion Iced Tea Pouches",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_iced_black_tea_bags_18_pouches_front3.jpg?v=1634228062",
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_flavored_black_iced_tea_cbtl_18_pouches_top_24821ca1-3d2e-42cd-a4cd-9d400eab3327.jpg?v=1634228033",
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_iced_black_tea_bags_18_pouches_instructions.jpg?v=1634226540",
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_iced_black_tea_bags_18_pouches_philosophy.jpg?v=1634226620",
+          "https://store.coffeebean.com/cdn/shop/products/tropical_passion_iced_black_tea_bags_18_pouches_nutritional_ingredients.jpg?v=1634226577"
+        ],
+        "short_description": "Our hand plucked, pure Tropical Passion Iced tea perfectly combines pure Ceylon black tea from Sri Lanka and the sweet-tart taste of passion fruit and the sweet flavor of guava for a superior iced tea. This product includes 18 pouches packaged in a gift worthy tin canister.",
+        "full_description": {
+          "aroma": "Tropical, fruity",
+          "body": "Medium",
+          "flvor": "Sweet, fruity and slightly woodsy",
+          "pairing": "Banana Macarons"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "fruit infusion"],
+        "reviews": 30
+      },
+      {
+        "id": 35,
+        "title": "Apricot Ceylon Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/apricot-ceylon-black-tea-bags-cbtl-20ct-front.jpg?v=1622235709",
+          "https://store.coffeebean.com/cdn/shop/products/apricot-ceylon-black-tea-bags-cbtl-20ct-back.jpg?v=1622235709",
+          "https://store.coffeebean.com/cdn/shop/products/apricot-ceylon-black-tea-bags-cbtl-20ct-side1.jpg?v=1622235709",
+          "https://store.coffeebean.com/cdn/shop/products/apricot-ceylon-black-tea-bags-cbtl-20ct-side2.jpg?v=1622235709"
+        ],
+        "short_description": "Apricot Ceylon Black Tea from The Coffee Bean & Tea Leaf combines the mellow taste of Bogawantalawa Estate Ceylon whole leaf black tea with the delicate flavor of Apricot to produce this well-balanced tea. Delightfully aromatic, with a fruity aroma and light body, this tea is perfect for a relaxing cup of indulgence. This item includes 20 tea bags in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Floral & Fruity",
+          "body": "Light",
+          "flvor": "Apricot",
+          "pairing": "Butter Cookies"
+        },
+        "container": "tea pouches",
+        "type": ["flavored", "fruit infusion", "ceylon"],
+        "reviews": 57
+      },
+      {
+        "id": 36,
+        "title": "Earl Grey Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/earl-grey-black-tea-bags-canister-cbtl-20ct-front.jpg?v=1619617444",
+          "https://store.coffeebean.com/cdn/shop/products/earl-grey-black-tea-bags-canister-cbtl-20ct-back.jpg?v=1619617423",
+          "https://store.coffeebean.com/cdn/shop/products/earl-grey-black-tea-bags-canister-cbtl-20ct-side2.jpg?v=1619617416"
+        ],
+        "short_description": "Made with Single Origin Ceylon from Bogawantalawa Valley in the Central Highlands of Sri Lanka and natural essential oil extracted from the skin of bergamot grown in Southern Italy; Our exclusive flavored Earl Grey is bold and sweet with delicate citrus notes and a deep sienna flavor liquor. One of the most famous, and rightfully distinctive teas in all the world, Earl Grey derives its unique flavor from oil of Bergamot, a Mediterranean citrus fruit like an orange (in case you were wondering). Named after the 2nd Earl Grey, a British prime minister who received this flavored tea as a gift and served it in his ministerial drawing rooms, the tea has been in continuous production since the 1830s. Enjoy it black or with milk. This item includes 20 tea bags in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Fragrant & Citrusy",
+          "body": "Full",
+          "flvor": "Rich Citrus",
+          "pairing": "Chocolate Custard, Creme Brulee"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "black"],
+        "reviews": 42
+      },
+      {
+        "id": 37,
+        "title": "English Breakfast Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/english-breakfast-tea-bags-black-cbtl-20ct-front.jpg?v=1619617683",
+          "https://store.coffeebean.com/cdn/shop/products/english-breakfast-tea-bags-black-cbtl-20ct-back.jpg?v=1619617663",
+          "https://store.coffeebean.com/cdn/shop/products/english-breakfast-tea-bags-black-cbtl-20ct-side1.jpg?v=1619617656",
+          "https://store.coffeebean.com/cdn/shop/products/english-breakfast-tea-bags-black-cbtl-20ct-side2.jpg?v=1619617643"
+        ],
+        "short_description": "Brisk and invigorating, our English Breakfast Tea is a blend of black teas from Sri Lankan Ceylon, Taiwanese Black Tea, and Chinese Keemun Black Tea. Our crisp, smooth, and medium-bodied blend is our take on a beloved classic and a tribute to England's tradition of tea drinking. Add our vanilla powder for a wonderful vanilla tea latte. This item includes 20 tea bags in a gift-worthy tin canister. Customers that purchased out Scottish Breakfast Tea (now discontinued) also enjoy this product.",
+        "full_description": {
+          "aroma": "Sweet",
+          "body": "Medium",
+          "flvor": "Robust and balanced with an astringent finish",
+          "pairing": "Bangers and Mash, English Muffins"
+        },
+        "container": "tea pouches",
+        "type": ["flavored", "black", "ceylon"],
+        "reviews": 41
+      },
+      {
+        "id": 38,
+        "title": "Estate Darjeeling Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/darjeeling-black-tea-bas-estate-cbtl-20ct-front.jpg?v=1619617776",
+          "https://store.coffeebean.com/cdn/shop/products/darjeeling-black-tea-bas-estate-cbtl-20ct-back.jpg?v=1619617763",
+          "https://store.coffeebean.com/cdn/shop/products/darjeeling-black-tea-bas-estate-cbtl-20ct-side1.jpg?v=1619617753",
+          "https://store.coffeebean.com/cdn/shop/products/darjeeling-black-tea-bas-estate-cbtl-20ct-side2.jpg?v=1619617743"
+        ],
+        "short_description": "Darjeeling Black Tea from The Coffee Bean & Tea Leaf has a lively full-bodied yet light and delicate taste and a fragrant aroma. Darjeeling teas are sometimes referred to as the champagne of teas. Located in Northeastern India, the Darjeeling tea region is situated in altitudes of more than 6,000 feet with breathtaking views of the Himalayan mountains. The combination of the moist cool climate, the rich soil, the frequent rainfall and the gradually sloping terrain gives Darjeeling tea its famous unique flavor. Darjeeling teas have a very limited harvest, making this tea one of the finest in the world. This item includes 20 tea bags in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Fragrant",
+          "body": "Full",
+          "flvor": "Lively",
+          "pairing": "Apple tarts & biscuits"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "fruit infusion"],
+        "reviews": 8
+      },
+      {
+        "id": 39,
+        "title": "Pomegranate Blueberry Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/pomegranate-blueberry-tea-bags-cbtl-20ct.-front.jpg?v=1619530650",
+          "https://store.coffeebean.com/cdn/shop/products/pomegranate-blueberry-tea-bags-cbtl-20ct.-back.jpg?v=1619530646",
+          "https://store.coffeebean.com/cdn/shop/products/pomegranate-blueberry-tea-bags-cbtl-20ct.-side1.jpg?v=1619530642",
+          "https://store.coffeebean.com/cdn/shop/products/pomegranate-blueberry-tea-bags-cbtl-20ct.-side2.jpg?v=1619530637"
+        ],
+        "short_description": "Pomegranate Blueberry Tea combines our famous Lung Ching Dragonwell Green, premium Oolong, and Ceylon Teas. We then infuse them with blueberry and pomegranate flavoring, along with bits of blueberries for a delightfully aromatic tea. Fresh, fruity, and bright with flavor, this tea exhibits bright berry notes and a naturally sweet finish. This item includes 20 tea bags in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Fruity",
+          "body": "Medium",
+          "flvor": "Bright & Fruity",
+          "pairing": "Oatmeal, walnuts"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "black", "fruit infusion"],
+        "reviews": 23
+      },
+      {
+        "id": 40,
+        "title": "Chai Black Tea",
+        "price": 13.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-front_15fafdd8-3d60-448e-8d94-691044c67832_300x.jpg?v=1619519832",
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-back_165d837b-ae8a-49ca-a0ad-0fcbaf5d1da1_300x.jpg?v=1619519829",
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-side1_f2354f84-821a-4357-8e55-322aa943f0b2_300x.jpg?v=1619519825",
+          "https://store.coffeebean.com/cdn/shop/products/chai-tea-bags-black-cbtl-20ct-side2_76a9ff4d-0904-4035-a51d-8c3ac9f716ec_300x.jpg?v=1619519821"
+        ],
+        "short_description": "It's Chai time! Exceptional black tea, cinnamon, cloves & cardamom spices combine for a relaxing aromatic beverage. Add our vanilla powder for a wonderful vanilla chai latte. Or add coffee and our chocolate powders for a decadent dirty chai. This is the same chai tea blend used in our cafes. This item includes 20 tea pyramid shaped high quality bags for optimal flavor extraction and comes in a gift-worthy tin canister.",
+        "full_description": {
+          "aroma": "Spicy",
+          "body": "Full",
+          "flvor": "Cardamom, clove, cinnamon",
+          "pairing": "Lemon bars & blueberry scones"
+        },
+        "container": "tea bag",
+        "type": ["flavored", "black"],
+        "reviews": 63
+      }
+    ]
+  },
+  "powders": {
+    "banner": "https://store.coffeebean.com/cdn/shop/collections/Coffee-Bean-Shop-Header-Powder.jpg?v=1647309016",
+    "about": "Our flavoring powders for coffee and tea are very popular. Each of our delicious powdered creamer products was created to taste great with coffee, tea, or by itself and can be served hot, iced or blended. Powders are convenient and less messy than syrup flavorings. They serve as the perfect base for ice-blended drinks, smoothies, lattes, and more. Some customers use these exceptional powdered creamers for baking recipes too. Try vanilla, cookie butter, hazelnut, chocolate, white chocolate, matcha, and no sugar options too.",
+    "products": [
+      {
+        "id": 0,
+        "title": "French Deluxe™ Vanilla Powder",
+        "price": 19.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/vanilla-powder-for-coffee-tea-french-deluxe-cbtl-22oz.jpg?v=1638260278",
+          "https://store.coffeebean.com/cdn/shop/products/vanilla-powder-for-coffee-tea-french-deluxe-cbtl-22oz-back.jpg?v=1638260278",
+          "https://store.coffeebean.com/cdn/shop/products/vanilla-powder-for-coffee-tea-french-deluxe-cbtl-22oz-side.jpg?v=1638260278",
+          "https://store.coffeebean.com/cdn/shop/products/vanilla-powder-for-coffee-tea-french-deluxe-cbtl-22oz-lifestyle.jpg?v=1619523668",
+          "https://store.coffeebean.com/cdn/shop/products/coffee-bean-and-tea-leaf-powder-lifestyle_cb640060-a465-4b8c-abd8-acc4f25b2a3f.jpg?v=1619523664"
+        ],
+        "short_description": "One taste of French Deluxe™ Vanilla Powder from The Coffee Bean & tea Leaf, and you'll know why this has been a best seller for years. This powdered vanilla creamer product was made to taste great with coffee, tea, or as a standalone vanilla beverage. It can be served hot, blended, or iced. French Deluxe™ Vanilla powder provides a sensational vanilla flavor and excellent mouthfeel that adds a sweet richness to any Ice Blended drink or smoothie, and turns any hot beverage into a tasty vanilla latte. Some customers also use this vanilla powder product as their secret ingredient for adding a gourmet vanilla taste to baked goods. Packaged in a great looking 22oz tin canister, this gourmet powdered creamer product makes a great gift for any foodie or specialty beverage aficionado. ",
+        "full_description": [
+          "Delicious gourmet vanilla taste",
+          "Serve it hot, iced, or blended",
+          "Turns coffee & tea drinks into instant vanilla lattes",
+          "Goes great with coffee, tea, ice-blended frappes & smoothies",
+          "Great mouthfeel adds richness to beverages and baked goods",
+          "Great looking tin canister suitable for gifting"
+        ],
+        "instructions": [
+          {
+            "title": "HOT VANILLA",
+            "recipe": "Add 1.5 tbsp of vanilla powder to an 8 oz. mug. Fill cup with steamed milk or hot water and enjoy!"
+          },
+          {
+            "title": "CAFÉ VANILLA",
+            "recipe": "Add 1.5 tbsp of vanilla powder to an 8 oz. mug. Fill cup 3/4 full with brewed coffee, add hot steaming milk, stir and enjoy!"
+          },
+          {
+            "title": "VANILLA ICE BLENDED® DRINK",
+            "recipe": "Fill an 8 oz. cup with ice. Add 2 oz. of milk and 2 oz. of 100% Pure Coffee Extract. Pour into a blender and add approx. 1.5 tbsp of vanilla powder. Blend until smooth. Top off with a dollop of whipped cream and enjoy!"
+          },
+          {
+            "title": "VANILLA TEA LATTE",
+            "recipe": "Pour 8 oz. of hot water in a 12 oz. mug, add your favorite tea sachet and steep according to the directions. After steeping, add 1.5 tbsp of vanilla powder and whisk well. Top off with steamed milk and foam and enjoy!"
+          }
+        ],
+        "reviews": 229
+      },
+      {
+        "id": 1,
+        "title": "Special Dutch™ Chocolate Powder",
+        "price": 19.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/chocolate-powder-flavoring-special-dutch-cbtl-22oz.jpg?v=1619616433",
+          "https://store.coffeebean.com/cdn/shop/products/chocolate-powder-flavoring-special-dutch-cbtl-22oz-back.jpg?v=1619616423",
+          "https://store.coffeebean.com/cdn/shop/products/chocolate-powder-flavoring-special-dutch-cbtl-22oz-side.jpg?v=1619616403",
+          "https://store.coffeebean.com/cdn/shop/products/coffee-bean-and-tea-leaf-powder-lifestyle_05775aab-81cf-42cd-9ae0-95a5a4b8a016.jpg?v=1620069523"
+        ],
+        "short_description": "What's the secret behind The Coffee Bean & Tea Leaf's legendary Mocha coffees? It's the powder. Special Dutch™ Chocolate Powder from Coffee Bean & Tea Leaf, turns any coffee or tea into a delicious creamy cocoa flavored beverage. This premium powdered chocolate product can also be served stand alone as a rich and creamy cocoa beverage. It can be served hot, blended, or iced. Special Dutch™ Chocolate Powder includes ultra-premium ingredients to make the finest grade of cocoa. It creates an excellent mouthfeel that adds a sweet chocolaty richness to any frappe, smoothie, and turns any hot beverage into a tasty mocha. Some customers also use this chocolate powder product as their secret ingredient for adding a gourmet cocoa taste to baked goods. Packaged in a great looking 22oz tin canister, this premium chocolate mix product makes a great gift for any foodie or specialty beverage aficionado.",
+        "full_description": [
+          "Decadent sweet and creamy cocoa taste",
+          "Serve it hot, iced, or Ice-Blended",
+          "Turns coffee & tea drinks into instant mocha lattes",
+          "Goes great with coffee, tea, ice-blended frappes & smoothies",
+          "Great mouthfeel adds chocolate richness to beverages and baked goods",
+          "Great looking tin canister suitable for gifting"
+        ],
+        "instructions": [
+          {
+            "title": "HOT COCOA BEVERAGE ",
+            "recipe": "Add 1.5 tbsp of chocolate powder to an 8 oz. mug. Fill cup with steamed milk or hot water and enjoy!"
+          },
+          {
+            "title": "CAFÉ MOCHA",
+            "recipe": "Add 1.5 tbsp of chocolate powder to an 8 oz. mug. Fill cup 3/4 full with brewed coffee, add hot steaming milk, stir and enjoy!"
+          },
+          {
+            "title": "ICE BLENDED® CHOCOLATE DRINK",
+            "recipe": "Fill an 8 oz. cup with ice. Add 2 oz. of milk and 2 oz. of 100% Pure Coffee Extract. Pour into a blender and add approx. 1.5 tbsp of powder. Blend until smooth. Top off with a dollop of whipped cream and enjoy!"
+          },
+          {
+            "title": "CHOCOLATE TEA LATTE",
+            "recipe": "Pour 8 oz. of hot water in a 12 oz. mug, add your favorite tea sachet and steep according to the directions. After steeping, add 1.5 tbsp of chocolate powder and whisk well. Top off with steamed milk and foam and enjoy!"
+          }
+        ],
+        "reviews": 128
+      },
+      {
+        "id": 2,
+        "title": "Cookie Butter Powder",
+        "price": 19.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/cookie-butter-powder-front.jpg?v=1662655635",
+          "https://store.coffeebean.com/cdn/shop/products/cookie-butter-powder-recipes-side.jpg?v=1660765297",
+          "https://store.coffeebean.com/cdn/shop/products/cookie-butter-powder-ingredients-back.jpg?v=1660765297"
+        ],
+        "short_description": "Cookie Butter powder is another sensational product from The Coffee Bean & Tea Leaf. This Cookie Butter Powder turns any coffee or tea into a delicious masterpiece. Think of it as a gourmet powdered Cookie Butter creamer that provides a joyous sugar cookie flavor with a hint of spice providing an excellent mouthfeel. Add that unmistakable creamy cookie taste to any frappe or smoothie, and turn any hot beverage into a flavorful cookie butter creation. This premium powdered cookie butter product can also be served stand alone as a rich and creamy beverage. It can be served hot, blended, or iced. Packaged in a great looking 22oz tin canister, this premium cookie butter mix product makes a great gourmet gift for any foodie or specialty beverage aficionado.",
+        "full_description": [
+          "Delicious gourmet holiday cookie taste",
+          "Serve it hot, iced, or blended",
+          "Turns coffee & tea drinks into instant cookie butter beverage",
+          "Goes great with coffee, tea, ice-blended frappes & smoothies",
+          "Great mouthfeel adds cookie butter richness to beverages and baked goods",
+          "Great looking tin canister suitable for gifting",
+          ""
+        ],
+        "instructions": [
+          {
+            "title": "COOKIE BUTTER BEVERAGE",
+            "recipe": "Add 1.5 tbsp of cookie butter powder to an 8 oz. mug. Fill cup with steamed milk or hot water and enjoy!"
+          },
+          {
+            "title": "CAFÉ COOKIE BUTTER",
+            "recipe": "Add 1.5 tbsp of cookie butter powder to an 8 oz. mug. Fill cup 3/4 full with brewed coffee, add hot steaming milk, stir and enjoy!"
+          },
+          {
+            "title": "ICE BLENDED® COOKIE BUTTER DRINK",
+            "recipe": "Fill an 8 oz. cup with ice. Add 2 oz. of milk and 2 oz. of 100% Pure Coffee Extract. Pour into a blender and add approx. 1.5 tbsp of cookie butter powder. Blend until smooth. Top off with a dollop of whipped cream and enjoy!"
+          },
+          {
+            "title": "COOKIE BUTTER TEA LATTE",
+            "recipe": "Pour 8 oz. of hot water in a 12 oz. mug, add your favorite tea sachet and steep according to the directions. After steeping, add 1.5 tbsp of cookie butter powder and whisk well. Top off with steamed milk and foam and enjoy!"
+          }
+        ],
+        "reviews": 186
+      },
+      {
+        "id": 3,
+        "title": "Matcha Latte Powder",
+        "price": 28.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/matcha_powder_cbtl_22oz_front.jpg?v=1652298517",
+          "https://store.coffeebean.com/cdn/shop/products/matcha_powder_cbtl_22oz_back.jpg?v=1652298517",
+          "https://store.coffeebean.com/cdn/shop/products/matcha_powder_cbtl_22oz_side.jpg?v=1652298517"
+        ],
+        "short_description": "You must try this Matcha Powder for DIY lattes at home! Some would say our Matcha Lattes, Iced Matcha drinks and Matcha Ice Blended® beverages served in our stores are some of the best matcha lattes they've ever tried. When customers ask about our matcha recipe, we tell them our secret is this matcha latte powder mix. Now you can make your own sweet matcha latte beverages at home with our Matcha Shizuoka powder mix. It's easy!  This matcha latte mix combines a high-quality matcha green tea with our French Deluxe™ Vanilla powder to create a full-bodied green tea that has a rich and creamy taste and lingering sweetness. This high-quality, restaurant grade matcha powder is sourced from the Shizuoka prefecture in Japan where a majority of the best Japanese green tea is grown. The climate is warmer than average providing the perfect growing conditions for green tea. Serve your matcha drinks hot, iced, or blended. Add milk or your favorite non-dairy alternative for extra creamy matcha lattes. This product comes in a gift worthy metallic 22 oz canister.",
+        "full_description": [
+          "High-quality, restaurant grade matcha green tea powder",
+          "Serve it hot, iced, or blended",
+          "Includes our sweet French Deluxe Vanilla powder",
+          "Make instant green tea lattes",
+          "Great mouthfeel adds richness"
+        ],
+        "instructions": [
+          {
+            "title": "MATCHA ICE BLENDED® DRINK",
+            "recipe": "Fill an 8 oz. cup with ice. Add 2 oz. of milk and pour into a blender. Add approximately 2 Tbsp of matcha powder. Blend until smooth. Top off with a dollop of whipped cream and enjoy!"
+          },
+          {
+            "title": "MATCHA GREEN TEA LATTE",
+            "recipe": "Pour 8 oz. of hot water in a 12 oz. mug, add 2 Tbsp of matcha powder and whisk well. Top off with steamed milk and foam and enjoy!"
+          },
+          {
+            "title": "DIRTY MATCHA ",
+            "recipe": "Add 2 Tbsp of matcha powder to an 8 oz. mug. Fill cup 3/4 full with brewed coffee, add hot steaming milk, stir and enjoy!"
+          }
+        ],
+        "reviews": 44
+      },
+      {
+        "id": 4,
+        "title": "White Chocolate Powder",
+        "price": 19.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/white-chocolate-powder-flavoring-cbtl-22oz.jpg?v=1619616382",
+          "https://store.coffeebean.com/cdn/shop/products/white-chocolate-powder-flavoring-cbtl-22oz-side.jpg?v=1619616373",
+          "https://store.coffeebean.com/cdn/shop/products/white-chocolate-powder-flavoring-cbtl-22oz-back.jpg?v=1619616363"
+        ],
+        "short_description": "White Chocolate powder is a must-have staple in your pantry. What's the secret behind Coffee Bean & Tea Leaf's legendary White Chocolate lattes? It's the powder. White Chocolate Powder from Coffee Bean & Tea Leaf, turns any coffee or tea into a delicious buttery creamy flavored beverage. This premium powdered white chocolate product can also be served stand alone as a rich and creamy beverage. It can be served hot, blended, or iced. White Chocolate Powder provides that unmistakable confectionary flavor and excellent mouthfeel that adds that creamy white chocolaty smoothness to any Ice Blended drink or smoothie, and turns any hot beverage into a tasty white chocolate delight. Some customers also use this white chocolate powder product as their secret ingredient for adding a sweet gourmet cocoa buttery taste to baked goods. Try adding cinnamon and almond slices for an amazing DIY Horchata beverage. Great for Cinco deMayo or any fiesta. Packaged in a great looking 22oz tin canister, this premium white chocolate mix product makes a great gift for any foodie or specialty beverage aficionado. ",
+        "full_description": [
+          "Delicious gourmet creamy white chocolate taste",
+          "Serve it hot, iced, or blended",
+          "Turns coffee & tea drinks into instant white chocolate beverage",
+          "Goes great with coffee, tea, ice-blended frappes & smoothies",
+          "Great mouthfeel adds cocoa butter richness to beverages and baked goods",
+          "Great looking tin canister suitable for gifting"
+        ],
+        "instructions": [
+          {
+            "title": "HOT WHITE CHOCOLATE BEVERAGE",
+            "recipe": "Add 1.5 tbsp of chocolate powder to an 8 oz. mug. Fill cup with steamed milk or hot water and enjoy!"
+          },
+          {
+            "title": "CAFÉ WHITE MOCHA",
+            "recipe": "Add 1.5 tbsp of chocolate powder to an 8 oz. mug. Fill cup 3/4 full with brewed coffee, add hot steaming milk, stir and enjoy!"
+          },
+          {
+            "title": "ICE BLENDED® WHITE CHOCOLATE DRINK",
+            "recipe": "Fill an 8 oz. cup with ice. Add 2 oz. of milk and 2 oz. of 100% Pure Coffee Extract. Pour into a blender and add approx. 1.5 tbsp of powder. Blend until smooth. Top off with a dollop of whipped cream and enjoy!"
+          },
+          {
+            "title": "WHITE CHOCOLATE TEA LATTE",
+            "recipe": "Pour 8 oz. of hot water in a 12 oz. mug, add your favorite tea sachet and steep according to the directions. After steeping, add 1.5 tbsp of chocolate powder and whisk well. Top off with steamed milk and foam and enjoy!"
+          }
+        ],
+        "reviews": 113
+      },
+      {
+        "id": 5,
+        "title": "Hazelnut Powder 22oz",
+        "price": 19.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/hazelnut-powder-cbtl-flavoring-22oz_02d74f24-52ca-4d2b-aeca-04a6a7ddfe4d.jpg?v=1638260237",
+          "https://store.coffeebean.com/cdn/shop/products/hazelnut-powder-cbtl-flavoring-22oz-back_fd3cd1be-d3f1-448c-9ba5-0d903cc01900.jpg?v=1638260237",
+          "https://store.coffeebean.com/cdn/shop/products/hazelnut-powder-cbtl-flavoring-22oz-side_ed19eb46-2067-4682-a759-c48dca589e52.jpg?v=1638260237",
+          "https://store.coffeebean.com/cdn/shop/products/coffee-bean-and-tea-leaf-powder-lifestyle_ae77ad7c-02ec-4e6c-983c-9b100e6e7694.jpg?v=1619522979"
+        ],
+        "short_description": "What's the secret behind The Coffee Bean & Tea Leaf's amazing hazelnut lattes? It's the powder. Hazelnut Powder turns any coffee or tea into a delicious creamy hazelnut flavored beverage. This 22oz premium powdered hazelnut creamer product can also be served stand alone as a rich and creamy beverage. It can be served hot, blended, or iced. Hazelnut Powder provides a tantalizing nutty flavor and excellent mouthfeel that adds a sweet toasted nut richness to any Ice-Blended or smoothie and turns any coffee or tea into a tasty hazelnut latte. Some customers also use this hazelnut powder product as their secret ingredient for adding a gourmet hazelnut taste to baking recipes. (Hint: add this to your favorite brownie recipe and prepare to be amazed.) Packaged in a great looking 22oz tin canister, this premium hazelnut mix product makes a great gift for any foodie or specialty beverage aficionado. ",
+        "full_description": [
+          "Wonderful gourmet creamy hazelnut taste",
+          "Serve it hot, iced, or blended",
+          "Turns coffee & tea drinks into instant hazelnut lattes",
+          "Goes great with coffee, tea, ice-blended frappes & smoothies",
+          "Great mouthfeel adds roasted nut richness to beverages and baked goods",
+          "Great looking tin canister suitable for gifting"
+        ],
+        "instructions": [
+          {
+            "title": "HOT HAZELNUT BEVERAGE",
+            "recipe": "Add 1.5 tbsp of powder to an 8 oz. mug. Fill cup with steamed milk or hot water and enjoy!"
+          },
+          {
+            "title": "CAFÉ HAZELNUT",
+            "recipe": "Add 1.5 tbsp of powder to an 8 oz. mug. Fill cup 3/4 full with brewed coffee, add hot steaming milk, stir and enjoy!"
+          },
+          {
+            "title": "ICE BLENDED® HAZELNUT DRINK",
+            "recipe": "Fill an 8 oz. cup with ice. Add 2 oz. of milk and 2 oz. of 100% Pure Coffee Extract. Pour into a blender and add approx. 1.5 tbsp of powder. Blend until smooth. Top off with a dollop of whipped cream and enjoy!"
+          },
+          {
+            "title": "HAZELNUT TEA LATTE",
+            "recipe": "Pour 8 oz. of hot water in a 12 oz. mug, add your favorite tea sachet and steep according to the directions. After steeping, add 1.5 tbsp of powder and whisk well. Top off with steamed milk and foam and enjoy!"
+          }
+        ],
+        "reviews": 86
+      },
+      {
+        "id": 6,
+        "title": "No Sugar Added Vanilla Powder French Deluxe™",
+        "price": 23.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/no-sugar-added-vanilla-powder-french-deluxe-cbtl-nsa-22oz.jpg?v=1619616583",
+          "https://store.coffeebean.com/cdn/shop/products/no-sugar-added-vanilla-powder-french-deluxe-cbtl-nsa-22oz-side.jpg?v=1619616576",
+          "https://store.coffeebean.com/cdn/shop/products/no-sugar-added-vanilla-powder-french-deluxe-cbtl-nsa-22oz-back.jpg?v=1619616563",
+          "https://store.coffeebean.com/cdn/shop/products/coffee-bean-and-tea-leaf-powder-lifestyle_d8a26f7d-2710-4d50-bede-412e43308016.jpg?v=1620069453"
+        ],
+        "short_description": "One taste of No Sugar Added French Deluxe™ Vanilla powder from The Coffee Bean & Tea leaf, and you'll know why this has been a best seller for years. This NSA powdered vanilla creamer product was made to taste great with coffee, tea, or as a standalone vanilla beverage. It can be served hot, blended, or iced. French Deluxe™ Vanilla No Sugar Added powder provides a sensational creamy vanilla flavor and excellent mouthfeel that adds a sweet guilt-free richness to any coffee, tea, Ice-Blended, or smoothie, and turns any hot beverage into a tasty no sugar added vanilla latte (sweetened with aspartame). Some customers also use this NSA vanilla powder product as their secret ingredient for adding vanilla taste to baked goods. Packaged in a great looking 22oz tin canister, this product makes a great gift for any foodie or specialty beverage aficionado. This product contains lactose, a natural dairy-based sugar.",
+        "full_description": [
+          "Delicious gourmet no sugar added vanilla taste",
+          "Serve it hot, iced, or blended",
+          "Turns coffee & tea drinks into instant vanilla lattes",
+          "Goes great with coffee, tea, ice-blended frappes & smoothies",
+          "Great mouthfeel adds richness to beverages and baked goods",
+          "Great looking tin canister suitable for gifting"
+        ],
+        "instructions": [
+          {
+            "title": "HOT VANILLA",
+            "recipe": "Add 1.5 tbsp of powder to an 8 oz. mug. Fill cup with steamed milk or hot water and enjoy!"
+          },
+          {
+            "title": "CAFÉ VANILLA",
+            "recipe": "Add 1.5 tbsp of powder to an 8 oz. mug. Fill cup 3/4 full with brewed coffee, add hot steaming milk, stir and enjoy!"
+          },
+          {
+            "title": "ICE BLENDED® DRINK",
+            "recipe": "Fill an 8 oz. cup with ice. Add 2 oz. of milk and 2 oz. of 100% Pure Coffee Extract. Pour into a blender and add approx. 1.5 tbsp of powder. Blend until smooth. Top off with a dollop of whipped cream and enjoy!"
+          },
+          {
+            "title": "VANILLA TEA LATTE",
+            "recipe": "Pour 8 oz. of hot water in a 12 oz. mug, add your favorite tea sachet and steep according to the directions. After steeping, add 1.5 tbsp of powder and whisk well. Top off with steamed milk and foam and enjoy!"
+          }
+        ],
+        "reviews": 131
+      },
+      {
+        "id": 7,
+        "title": "No Sugar Added Chocolate Powder Special Dutch™",
+        "price": 23.95,
+        "images": [
+          "https://store.coffeebean.com/cdn/shop/products/no-sugar-added-chocolate-powder-special-dutch-cbtl-nsa-22oz.jpg?v=1619616543",
+          "https://store.coffeebean.com/cdn/shop/products/no-sugar-added-chocolate-powder-special-dutch-cbtl-nsa-22oz-back.jpg?v=1619616523",
+          "https://store.coffeebean.com/cdn/shop/products/no-sugar-added-chocolate-powder-special-dutch-cbtl-nsa-22oz-side.jpg?v=1619616516"
+        ],
+        "short_description": "Special Dutch™ No Sugar Added Chocolate Powder from The Coffee Bean & Tea Leaf, and you'll know why this is a customer favorite. This NSA powdered chocolate specialty beverage creamer product was made to taste great with coffee, tea, or as a standalone cocoa beverage. It can be served hot, blended, or iced. This guilt-free chocolate powder provides a wonderful cocoa flavor and has excellent mouthfeel, providing a nice decadence to any coffee, tea, Ice-Blended, or smoothie, and turns any hot beverage into a tasty mocha latte (sweetened using aspartame). Some customers also use this NSA chocolate powder product as their secret ingredient for adding a cocoa taste to baked goods. Packaged in a great looking 22oz tin canister, this product makes a great gift for any foodie. Note: This product contains lactose, a natural dairy-based sugar.",
+        "full_description": [
+          "Delicious gourmet no sugar added cocoa taste",
+          "Serve it hot, iced, or blended",
+          "Turns coffee & tea drinks into instant mocha chocolate lattes",
+          "Goes great with coffee, tea, ice-blended frappes & smoothies",
+          "Great mouthfeel adds richness to beverages and baked goods",
+          "Great looking tin canister suitable for gifting"
+        ],
+        "instructions": [
+          {
+            "title": "HOT COCOA",
+            "recipe": "Add 1.5 tbsp of powder to an 8 oz. mug. Fill cup with steamed milk or hot water and enjoy!"
+          },
+          {
+            "title": "CAFÉ MOCHA",
+            "recipe": "Add 1.5 tbsp of powder to an 8 oz. mug. Fill cup 3/4 full with brewed coffee, add hot steaming milk, stir and enjoy!"
+          },
+          {
+            "title": "ICE BLENDED® MOCHA DRINK",
+            "recipe": "Fill an 8 oz. cup with ice. Add 2 oz. of milk and 2 oz. of 100% Pure Coffee Extract. Pour into a blender and add approx. 1.5 tbsp of powder. Blend until smooth. Top off with a dollop of whipped cream and enjoy!"
+          },
+          {
+            "title": "TEA CHOCOLATE LATTE",
+            "recipe": "Pour 8 oz. of hot water in a 12 oz. mug, add your favorite tea sachet and steep according to the directions. After steeping, add 1.5 tbsp of powder and whisk well. Top off with steamed milk and foam and enjoy!"
+          }
+        ],
+        "reviews": 75
+      }
+    ]
+  }
+}
