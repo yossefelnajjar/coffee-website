@@ -15,6 +15,8 @@ This is a Coffee Website built using React, React Router DOM, Bootstrap, Tailwin
 
 - **Clear the Cart**: For added convenience, users can clear the entire cart in one go, removing all selected products.
 
+- **Responsive design**: This website is fully responsive on all the devices.
+
 ## Technologies Used
 - **React**: The website is built using React, a popular JavaScript library for building user interfaces.
 
